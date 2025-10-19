@@ -28,4 +28,5 @@ The primary goal was to correctly implement a pipelined datapath capable of hand
 
 Below is a high-level block diagram of the 5-stage datapath, including the forwarding paths.
 
-*(Note: You should create your own simple diagram showing the 5 stages and forwarding paths and upload it here.)*
+<img width="683" height="394" alt="image" src="https://github.com/user-attachments/assets/a221e1e1-268d-4836-ba01-4488f507c7d2" />
+
